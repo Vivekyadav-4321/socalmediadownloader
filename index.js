@@ -4,7 +4,7 @@ const PORT = 5000 || process.env.PORT
 
 app.get("/",(req, res)=>{
 
-res.send("hi")
+res.send("hi");
 })
 
 app.listen(PORT,()=>{console.log("sever is live");})
