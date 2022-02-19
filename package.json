@@ -1,0 +1,23 @@
+{
+  "name": "project-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vivekyadav-4321/socalmediadownloader.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vivekyadav-4321/socalmediadownloader/issues"
+  },
+  "homepage": "https://github.com/Vivekyadav-4321/socalmediadownloader#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
