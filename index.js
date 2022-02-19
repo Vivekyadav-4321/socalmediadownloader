@@ -4,8 +4,7 @@ const PORT = 5000 || process.env.PORT
 
 app.get("/",(req, res)=>{
 
-res.send("hi this is working fine")
-
+res.render("index.hbs")
 
 })
 
