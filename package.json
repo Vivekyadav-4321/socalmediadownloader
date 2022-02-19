@@ -1,0 +1,28 @@
+{
+  "name": "social-media-downloader",
+  "version": "1.0.0",
+  "description": "This is the applocation to download all types of media from Social Media platfroms",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vivekyadav-4321/socalmediadownloader.git"
+  },
+  "keywords": [
+    "social",
+    "media",
+    "downloader"
+  ],
+  "author": "Vivek Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vivekyadav-4321/socalmediadownloader/issues"
+  },
+  "homepage": "https://github.com/Vivekyadav-4321/socalmediadownloader#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "hbs": "^4.2.0"
+  }
+}
