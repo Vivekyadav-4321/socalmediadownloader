@@ -3,7 +3,7 @@ const app = express()
 const portnumber = 5000 || process.env.PORT
 
 app.get("/",(req, res)=>{
-res.send("hi");
+res.end("hi");
 })
 
 app.listen(portnumber,()=>{console.log("sever is live");})
